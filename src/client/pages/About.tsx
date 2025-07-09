@@ -17,4 +17,3 @@ export const About: React.FC = () => {
     </div>
   );
 };
-console.log("FFF");
